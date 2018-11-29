@@ -34,7 +34,7 @@ TealinuxOS telah diluncurkan sebanyak 9 versi diantaranya adalah :
 
 ## Resep TealinuxOS
 
-Versi terakhir dari TealinuxOS adalah TealinuxOS 9 Chamomile yang dibuat dari core Xbuntu 16.04, Xfce dan FOSS.
+Versi terakhir dari TealinuxOS adalah TealinuxOS 9 Chamomile yang dibuat dari core Xubuntu 16.04, Xfce dan FOSS.
 
 ### Xubuntu 16.04 LTS
 
